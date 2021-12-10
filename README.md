@@ -18,4 +18,4 @@ Week 7 SQL
 Week 8 HTML, CSS, JavaScript  
 Week 9 Flask  
 Week 10 Ethics  
-Final Project  
+Final Project
